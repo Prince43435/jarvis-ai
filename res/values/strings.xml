@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="tagline">Your personal AI companion</string>
+
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="history">History</string>
+    <string name="memory">Memory</string>
+    <string name="automation">Automation</string>
+    <string name="settings">Settings</string>
+    <string name="permissions">Permissions</string>
+
+    <string name="status_idle">Tap the mic and talk to me</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_thinking">Thinking…</string>
+    <string name="status_speaking">Speaking…</string>
+    <string name="status_connecting">Connecting…</string>
+
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="retry">Retry</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="accessibility_label">JARVIS AI Automation</string>
+    <string name="accessibility_desc">Lets JARVIS perform the screen actions you explicitly approve, such as tapping a button, typing text, or going back. JARVIS never acts silently.</string>
+    <string name="notif_listener_label">JARVIS AI Notifications</string>
+
+    <string name="orb_channel">Floating assistant</string>
+    <string name="orb_title">JARVIS orb active</string>
+    <string name="orb_text">Tap the orb to open JARVIS</string>
+
+    <string name="reminder_channel">Reminders</string>
+    <string name="reminder_action_done">Mark done</string>
+    <string name="reminder_action_snooze">Snooze 10 min</string>
+
+    <string name="setup_title">Welcome to JARVIS</string>
+    <string name="setup_sub">Aapka personal AI companion. Voice, vision, memory aur phone automation — sab kuch aapke control mein.</string>
+    <string name="setup_key_label">Gemini API key</string>
+    <string name="setup_key_hint">AIza… (stored encrypted on this device)</string>
+    <string name="setup_key_help">Get a free key at aistudio.google.com/apikey. It is encrypted with the Android Keystore and never leaves your phone except in requests to Google.</string>
+    <string name="setup_start">Start JARVIS</string>
+    <string name="setup_skip">Set up later</string>
+    <string name="setup_error">Enter a valid API key (starts with AIza, at least 20 characters)</string>
+
+    <string name="api_key">Gemini API key</string>
+    <string name="api_key_set">Configured</string>
+    <string name="api_key_missing">Not configured</string>
+
+    <string name="voice_mode_live">Live voice (Gemini Live)</string>
+    <string name="voice_mode_live_desc">Real-time, interruptible conversation over a streaming audio session</string>
+    <string name="voice_mode_tts">Classic voice (speech → AI → TTS)</string>
+    <string name="voice_mode_tts_desc">Uses Android speech recognition and the Indian voice engine</string>
+
+    <string name="permission_mic">Microphone</string>
+    <string name="permission_camera">Camera</string>
+    <string name="permission_notif">Notifications</string>
+    <string name="permission_overlay">Display over other apps</string>
+    <string name="permission_accessibility">Accessibility automation</string>
+    <string name="permission_notif_listener">Notification access</string>
+    <string name="permission_exact_alarm">Exact alarms</string>
+    <string name="permission_battery">Ignore battery optimisation</string>
+    <string name="permission_granted">Granted</string>
+    <string name="permission_denied">Not granted</string>
+    <string name="permission_open">Open</string>
+    <string name="permission_grant">Grant</string>
+
+    <string name="clear_history">Clear conversation history</string>
+    <string name="clear_history_confirm">Delete every saved message? Memories stay unless you delete them too.</string>
+    <string name="clear_memory">Delete all memories</string>
+    <string name="clear_memory_confirm">Delete everything JARVIS remembers about you?</string>
+
+    <string name="disclaimer">JARVIS can make mistakes. It only performs device actions you approve, and never claims an action succeeded unless it was verified.</string>
+
+    <string name="camera_hint">Point the camera at something and ask JARVIS</string>
+    <string name="camera_capture">Capture</string>
+    <string name="camera_gallery">Gallery</string>
+</resources>

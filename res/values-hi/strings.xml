@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="tagline">Aapka personal AI companion</string>
+
+    <string name="home">होम</string>
+    <string name="chat">चैट</string>
+    <string name="history">इतिहास</string>
+    <string name="memory">यादें</string>
+    <string name="automation">ऑटोमेशन</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="permissions">अनुमतियाँ</string>
+
+    <string name="status_idle">माइक दबाइए और बात कीजिए</string>
+    <string name="status_listening">सुन रही हूँ…</string>
+    <string name="status_thinking">सोच रही हूँ…</string>
+    <string name="status_speaking">बोल रही हूँ…</string>
+    <string name="status_connecting">जुड़ रही हूँ…</string>
+
+    <string name="type_message">संदेश लिखें…</string>
+    <string name="send">भेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सेव करें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="close">बंद करें</string>
+    <string name="back">वापस</string>
+    <string name="done">ठीक है</string>
+    <string name="retry">फिर कोशिश करें</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+
+    <string name="accessibility_label">JARVIS AI ऑटोमेशन</string>
+    <string name="accessibility_desc">JARVIS को वही स्क्रीन एक्शन करने देता है जिन्हें आप मंज़ूर करते हैं — बटन दबाना, टेक्स्ट लिखना या पीछे जाना। JARVIS चुपचाप कुछ नहीं करता।</string>
+    <string name="notif_listener_label">JARVIS AI नोटिफिकेशन</string>
+
+    <string name="orb_channel">फ्लोटिंग असिस्टेंट</string>
+    <string name="orb_title">JARVIS ऑर्ब सक्रिय है</string>
+    <string name="orb_text">JARVIS खोलने के लिए ऑर्ब दबाएँ</string>
+
+    <string name="reminder_channel">रिमाइंडर</string>
+    <string name="reminder_action_done">पूरा हुआ</string>
+    <string name="reminder_action_snooze">10 मिनट बाद</string>
+
+    <string name="setup_title">JARVIS में स्वागत है</string>
+    <string name="setup_sub">आपका personal AI companion. आवाज़, नज़र, याददाश्त और फ़ोन ऑटोमेशन — सब आपके कंट्रोल में।</string>
+    <string name="setup_key_label">Gemini API key</string>
+    <string name="setup_key_hint">AIza… (इस फ़ोन पर एन्क्रिप्ट होकर सेव होगी)</string>
+    <string name="setup_key_help">aistudio.google.com/apikey पर मुफ़्त key मिलती है। यह Android Keystore से एन्क्रिप्ट रहती है और Google की requests के अलावा कहीं नहीं जाती।</string>
+    <string name="setup_start">JARVIS शुरू करें</string>
+    <string name="setup_skip">बाद में सेट करें</string>
+    <string name="setup_error">सही API key डालें (AIza से शुरू, कम से कम 20 अक्षर)</string>
+
+    <string name="api_key">Gemini API key</string>
+    <string name="api_key_set">सेट है</string>
+    <string name="api_key_missing">सेट नहीं है</string>
+
+    <string name="voice_mode_live">लाइव आवाज़ (Gemini Live)</string>
+    <string name="voice_mode_live_desc">असली समय की बातचीत — बीच में टोक सकते हैं</string>
+    <string name="voice_mode_tts">क्लासिक आवाज़ (बोलें → AI → जवाब)</string>
+    <string name="voice_mode_tts_desc">Android speech recognition और भारतीय आवाज़ इंजन</string>
+
+    <string name="permission_mic">माइक्रोफ़ोन</string>
+    <string name="permission_camera">कैमरा</string>
+    <string name="permission_notif">नोटिफिकेशन</string>
+    <string name="permission_overlay">अन्य ऐप्स के ऊपर दिखाएँ</string>
+    <string name="permission_accessibility">Accessibility ऑटोमेशन</string>
+    <string name="permission_notif_listener">नोटिफिकेशन एक्सेस</string>
+    <string name="permission_exact_alarm">सटीक अलार्म</string>
+    <string name="permission_battery">बैटरी ऑप्टिमाइज़ेशन छोड़ें</string>
+    <string name="permission_granted">मिल गई</string>
+    <string name="permission_denied">नहीं मिली</string>
+    <string name="permission_open">खोलें</string>
+    <string name="permission_grant">दें</string>
+
+    <string name="clear_history">बातचीत का इतिहास मिटाएँ</string>
+    <string name="clear_history_confirm">सारे सेव किए संदेश हटाएँ? यादें अलग से रहेंगी।</string>
+    <string name="clear_memory">सारी यादें मिटाएँ</string>
+    <string name="clear_memory_confirm">JARVIS आपके बारे में जो कुछ याद रखती है, सब हटाएँ?</string>
+
+    <string name="disclaimer">JARVIS गलती कर सकती है। फ़ोन के एक्शन सिर्फ़ आपकी मंज़ूरी से होते हैं, और जो काम सच में नहीं हुआ उसे हुआ नहीं बताया जाता।</string>
+
+    <string name="camera_hint">कैमरा किसी चीज़ पर करें और JARVIS से पूछें</string>
+    <string name="camera_capture">तस्वीर लें</string>
+    <string name="camera_gallery">गैलरी</string>
+</resources>

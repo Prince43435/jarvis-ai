@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#05070F</color>
+    <color name="bg2">#080C18</color>
+    <color name="surface">#0C1224</color>
+    <color name="surface2">#131B33</color>
+    <color name="stroke">#1E2A4A</color>
+    <color name="text">#EDF3FF</color>
+    <color name="muted">#8FA1C7</color>
+    <color name="muted2">#5F7095</color>
+    <color name="cyan">#3FE0FF</color>
+    <color name="violet">#8B6BFF</color>
+    <color name="magenta">#FF4FD8</color>
+    <color name="green">#38E0A2</color>
+    <color name="amber">#FFC24B</color>
+    <color name="red">#FF5C7A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="glass">#14FFFFFF</color>
+    <color name="glassStrong">#220E1830</color>
+    <color name="scrim">#99050A14</color>
+
+    <color name="bg_light">#F2F5FE</color>
+    <color name="bg2_light">#E8EEFF</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface2_light">#EDF2FF</color>
+    <color name="stroke_light">#D4DEF5</color>
+    <color name="text_light">#0A1024</color>
+    <color name="muted_light">#5B6B8F</color>
+</resources>
